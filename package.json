@@ -1,0 +1,27 @@
+{
+  "name": "web-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ddddddO/web-editor.git",
+  "author": "ddddddO <lbfdeatq@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@js-yamlfmt/wasm": "file:../js-yamlfmt/packages/wasm",
+    "css-loader": "^6.7.1",
+    "file-loader": "^6.2.0",
+    "monaco-editor": "^0.34.1",
+    "monaco-editor-webpack-plugin": "^7.0.1",
+    "php-wasm": "^0.0.5",
+    "style-loader": "^3.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "babel-loader": "^8.2.5",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "scripts": {
+    "serve": "cd public && python3 -m http.server 8081"
+  }
+}

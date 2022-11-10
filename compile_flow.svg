@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="492px" preserveAspectRatio="none" style="width:866px;height:492px;background:#FFFFFF;" version="1.1" viewBox="0 0 866 492" width="866px" zoomAndPan="magnify"><defs/><g><!--MD5=[77b3d9609c746040fad605e65db5ebee]
+cluster dev--><g id="cluster_dev"><path d="M8.5,6 L54.5,6 A3.75,3.75 0 0 1 57,8.5 L64,29.6094 L453.5,29.6094 A2.5,2.5 0 0 1 456,32.1094 L456,93.5 A2.5,2.5 0 0 1 453.5,96 L8.5,96 A2.5,2.5 0 0 1 6,93.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="64" y1="29.6094" y2="29.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="45" x="10" y="22.5332">開発者</text></g><!--MD5=[4ef80439e1ef409f8f3a0ec422262701]
+cluster server--><g id="cluster_server"><polygon fill="none" points="316,156,326,146,456,146,456,231,446,241,316,241,316,156" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="446" x2="456" y1="156" y2="146"/><line style="stroke:#181818;stroke-width:1.0;" x1="316" x2="446" y1="156" y2="156"/><line style="stroke:#181818;stroke-width:1.0;" x1="446" x2="446" y1="156" y2="241"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="60" x="352" y="173.5332">サーバー</text></g><!--MD5=[2de28e47f9582cb6df153deeec479525]
+cluster browser--><g id="cluster_browser"><path d="M219.5,291 L280.5,291 A3.75,3.75 0 0 1 283,293.5 L290,314.6094 L856.5,314.6094 A2.5,2.5 0 0 1 859,317.1094 L859,482.5 A2.5,2.5 0 0 1 856.5,485 L219.5,485 A2.5,2.5 0 0 1 217,482.5 L217,293.5 A2.5,2.5 0 0 1 219.5,291 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="217" x2="290" y1="314.6094" y2="314.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="60" x="221" y="307.5332">ブラウザ</text></g><!--MD5=[d388ef15bc950c2fc9962e83cc3fd1d9]
+entity src_dev--><g id="elem_src_dev"><path d="M22,44.5 L22,77.1094 A2.5,2.5 0 0 0 24.5,79.6094 L155.5,79.6094 A2.5,2.5 0 0 0 158,77.1094 L158,52 L148,42 L24.5,42 A2.5,2.5 0 0 0 22,44.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M148,42 L148,49.5 A2.5,2.5 0 0 0 150.5,52 L158,52 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="32" y="66.5332">C/C++, Rust, Go...</text></g><!--MD5=[362c1060488da1a0a7420a7c9d67b526]
+entity wasm_dev--><g id="elem_wasm_dev"><path d="M332,44.5 L332,77.1094 A2.5,2.5 0 0 0 334.5,79.6094 L437.5,79.6094 A2.5,2.5 0 0 0 440,77.1094 L440,52 L430,42 L334.5,42 A2.5,2.5 0 0 0 332,44.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M430,42 L430,49.5 A2.5,2.5 0 0 0 432.5,52 L440,52 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="342" y="66.5332">Wasm(.wasm)</text></g><!--MD5=[59949a5a1e3eac626ecf156fe112f622]
+entity wasm_srv--><g id="elem_wasm_srv"><path d="M332,189.5 L332,222.1094 A2.5,2.5 0 0 0 334.5,224.6094 L437.5,224.6094 A2.5,2.5 0 0 0 440,222.1094 L440,197 L430,187 L334.5,187 A2.5,2.5 0 0 0 332,189.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M430,187 L430,194.5 A2.5,2.5 0 0 0 432.5,197 L440,197 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="342" y="211.5332">Wasm(.wasm)</text></g><!--MD5=[94d7c7004b54887d97a29d524b56ffde]
+entity wasm--><g id="elem_wasm"><path d="M332,329.5 L332,362.1094 A2.5,2.5 0 0 0 334.5,364.6094 L437.5,364.6094 A2.5,2.5 0 0 0 440,362.1094 L440,337 L430,327 L334.5,327 A2.5,2.5 0 0 0 332,329.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M430,327 L430,334.5 A2.5,2.5 0 0 0 432.5,337 L440,337 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="342" y="351.5332">Wasm(.wasm)</text></g><g id="elem_GMN11"><path d="M233.5,426 L233.5,468.7031 A0,0 0 0 0 233.5,468.7031 L526.5,468.7031 A0,0 0 0 0 526.5,468.7031 L526.5,436 L516.5,426 L385.24,426 L384.9,365.25 L377.24,426 L233.5,426 A0,0 0 0 0 233.5,426 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M516.5,426 L516.5,436 L526.5,436 L516.5,426 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="272" x="239.5" y="444.4951">.wasmファイルは、機械語のコードではなく、</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="169" x="239.5" y="460.8467">ブラウザが解読できるコード</text></g><!--MD5=[cce5b303f4b05282428432f70c1161f1]
+entity machinelang--><g id="elem_machinelang"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="128" x="635" y="327"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="645" y="351.5332">011100111101...</text></g><g id="elem_GMN15"><path d="M561.5,426 L561.5,468.7031 A0,0 0 0 0 561.5,468.7031 L842.5,468.7031 A0,0 0 0 0 842.5,468.7031 L842.5,436 L832.5,426 L705.38,426 L699.55,365.25 L697.38,426 L561.5,426 A0,0 0 0 0 561.5,426 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M832.5,426 L832.5,436 L842.5,436 L832.5,426 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="197" x="567.5" y="444.4951">ブラウザが、各CPU(x86, ARM)に</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="260" x="567.5" y="460.8467">対応した機械語へとコンパイルし、実行する</text></g><!--MD5=[4e0e9167ca75f3531f0fdd846d2531d0]
+link src_dev to wasm_dev--><g id="link_src_dev_wasm_dev"><path d="M158.28,61 C209.18,61 278.02,61 326.64,61 " fill="none" id="src_dev-to-wasm_dev" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="331.87,61,322.87,57,326.87,61,322.87,65,331.87,61" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="137" x="176.5" y="38.4951">WebAssemblyバイナリ</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="78" x="206" y="54.8467">へコンパイル</text></g><!--MD5=[705216c3ed729ec5cde42baf2921804c]
+link wasm to machinelang--><g id="link_wasm_machinelang"><path d="M440.16,346 C492.73,346 572.73,346 629.86,346 " fill="none" id="wasm-to-machinelang" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="634.97,346,625.97,342,629.97,346,625.97,350,634.97,346" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="150" x="462.5" y="323.4951">WebAssemblyバイナリを</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="117" x="479" y="339.8467">機械語へコンパイル</text></g><!--MD5=[b9e26c6b02dc3c09f6935320fab4a0c2]
+link wasm_dev to wasm_srv--><g id="link_wasm_dev_wasm_srv"><path d="M386,80.11 C386,105.86 386,153.09 386,181.51 " fill="none" id="wasm_dev-to-wasm_srv" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="386,186.58,390,177.58,386,181.58,382,177.58,386,186.58" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="387" y="126.4951">デプロイ</text></g><!--MD5=[f7eeacf30ebfb29acbb0f9422724adca]
+link wasm_srv to wasm--><g id="link_wasm_srv_wasm"><path d="M386,225.04 C386,249.84 386,294.47 386,321.74 " fill="none" id="wasm_srv-to-wasm" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="386,326.95,390,317.95,386,321.95,382,317.95,386,326.95" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="387" y="271.4951">レスポンス</text></g><!--MD5=[f400f9838039634fab28017b81a11c5c]
+@startuml
+
+package "開発者" as dev {
+    file "C/C++, Rust, Go..." as src_dev
+    file "Wasm(.wasm)" as wasm_dev
+
+    src_dev -> wasm_dev: "WebAssemblyバイナリ\nへコンパイル"
+}
+
+node "サーバー" as server {
+    file "Wasm(.wasm)" as wasm_srv
+}
+
+package "ブラウザ" as browser {
+    file "Wasm(.wasm)" as wasm
+    note bottom
+        .wasmファイルは、機械語のコードではなく、
+        ブラウザが解読できるコード
+    end note
+
+    rectangle "011100111101..." as machinelang
+    note bottom
+        ブラウザが、各CPU(x86, ARM)に
+        対応した機械語へとコンパイルし、実行する
+    end note
+
+    wasm -> machinelang: "WebAssemblyバイナリを\n機械語へコンパイル"
+}
+
+wasm_dev - -> wasm_srv: "デプロイ"
+wasm_srv - -> wasm: "レスポンス"
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 JST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: MS932
+Language: ja
+Country: JP
+--></g></svg>

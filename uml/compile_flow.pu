@@ -1,0 +1,33 @@
+@startuml
+
+package "開発者" as dev {
+    file "C/C++, Rust, Go..." as src_dev
+    file "Wasm(.wasm)" as wasm_dev
+
+    src_dev -> wasm_dev: "WebAssemblyバイナリ\nへコンパイル"
+}
+
+node "サーバー" as server {
+    file "Wasm(.wasm)" as wasm_srv
+}
+
+package "ブラウザ" as browser {
+    file "Wasm(.wasm)" as wasm
+    note bottom
+        .wasmファイルは、機械語のコードではなく、
+        ブラウザが解読できるコード
+    end note
+
+    rectangle "011100111101..." as machinelang
+    note bottom
+        ブラウザが、各CPU(x86, ARM)に
+        対応した機械語へとコンパイルし、実行する
+    end note
+
+    wasm -> machinelang: "WebAssemblyバイナリを\n機械語へコンパイル"
+}
+
+wasm_dev --> wasm_srv: "デプロイ"
+wasm_srv --> wasm: "レスポンス"
+
+@enduml
